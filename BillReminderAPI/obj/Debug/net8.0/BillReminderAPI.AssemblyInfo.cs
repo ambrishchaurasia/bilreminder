@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillReminderAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a9c6b9df7b1ed4700edc49ebbc9f59ab29fb95e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f5a6081faef92ba3f8d8e5c9dd8f467cf0c72c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillReminderAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillReminderAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

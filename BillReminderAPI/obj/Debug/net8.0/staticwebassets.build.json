@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HC+1QqaAaWdvmkVlxGhbGcro/2QWv9vO418qDPcryHw=",
+  "Source": "BillReminderAPI",
+  "BasePath": "_content/BillReminderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
